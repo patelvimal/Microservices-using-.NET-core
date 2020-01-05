@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  storeapp.api:
+    image: storeapp.api
+    build:
+      context: ./StoreApp.API
+      dockerfile: Dockerfile
