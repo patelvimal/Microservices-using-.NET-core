@@ -1,5 +1,5 @@
 {
-  "FilePath": "x:\\DevWorkspace\\Microservice-using-dotnet-core\\sampleApp.API\\sampleApp.API.csproj",
+  "FilePath": "x:\\DevWorkspace\\Microservice-using-dotnet-core\\src\\Services\\ServiceA\\ServiceA.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20498,7 +20498,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "sampleApp.API",
+  "RootNamespace": "ServiceA",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
