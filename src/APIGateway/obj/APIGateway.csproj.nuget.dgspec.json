@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "x:\\DevWorkspace\\Microservice-using-dotnet-core\\src\\Gateway\\Gateway.csproj": {}
+    "H:\\DevWorkspace\\Microservice-using-dotnet-core\\Microservices-using-.NET-core\\APIGateway\\APIGateway.csproj": {}
   },
   "projects": {
-    "x:\\DevWorkspace\\Microservice-using-dotnet-core\\src\\Gateway\\Gateway.csproj": {
+    "H:\\DevWorkspace\\Microservice-using-dotnet-core\\Microservices-using-.NET-core\\APIGateway\\APIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "x:\\DevWorkspace\\Microservice-using-dotnet-core\\src\\Gateway\\Gateway.csproj",
-        "projectName": "Gateway",
-        "projectPath": "x:\\DevWorkspace\\Microservice-using-dotnet-core\\src\\Gateway\\Gateway.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "x:\\DevWorkspace\\Microservice-using-dotnet-core\\src\\Gateway\\obj\\",
+        "projectUniqueName": "H:\\DevWorkspace\\Microservice-using-dotnet-core\\Microservices-using-.NET-core\\APIGateway\\APIGateway.csproj",
+        "projectName": "APIGateway",
+        "projectPath": "H:\\DevWorkspace\\Microservice-using-dotnet-core\\Microservices-using-.NET-core\\APIGateway\\APIGateway.csproj",
+        "packagesPath": "C:\\Users\\Vimal\\.nuget\\packages\\",
+        "outputPath": "H:\\DevWorkspace\\Microservice-using-dotnet-core\\Microservices-using-.NET-core\\APIGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,12 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "ocelot": {
-              "target": "Package",
-              "version": "[13.8.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
